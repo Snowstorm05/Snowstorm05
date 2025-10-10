@@ -13,6 +13,7 @@ I’ve worked on a lot of different projects: DEXs, perpetual trading platforms,
 I used to be in corporate development, but moving into freelancing gave me more flexibility to work closely with teams and pick up challenging projects that keep me on my toes. I also really enjoy sharing what I know and bouncing around new ideas in the blockchain + AI space.<br>
 </p>
 
+
 <h2 font-weight="bold">🌠Ꚃ𝓀𝒾𝓁𝓁𝓈</h2>
 
 ###
