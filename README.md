@@ -37,14 +37,15 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <br>Solana
     </td>
     <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Cardano" />
-      <br>Cardano
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Polkadot" />
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png" width="48" height="48" style="border-radius: 15px;" alt="Polkadot" />
       <br>Polkadot
     </td>
-<td align="center" width="90">
+    <!-- Cardano -->
+    <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="48" height="48" style="border-radius: 15px;" alt="Cardano" />
+      <br>Cardano
+    </td>
+        <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
         <br>Javascript
       </td>
@@ -57,8 +58,8 @@ I used to be in corporate development, but moving into freelancing gave me more 
             <br>C#
         </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png" width="48" height="48" style="border-radius: 15px;" alt="Cosmos" />
+      <br>Cosmos
     </td>
   </tr>
   <tr>
@@ -91,8 +92,8 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <br>Solidity
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
+      <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" alt="Haskell" />
+      <br>Haskell
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
@@ -105,8 +106,8 @@ I used to be in corporate development, but moving into freelancing gave me more 
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
