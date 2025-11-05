@@ -37,12 +37,12 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <br>Solana
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Cardano" />
+      <br>Cardano
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Polkadot" />
+      <br>Polkadot
     </td>
 <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
@@ -83,12 +83,12 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <br>Angular
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
-      <br>Svelte
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
     </td>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
