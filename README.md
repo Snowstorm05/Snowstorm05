@@ -84,8 +84,8 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <br>Haskell
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
     </td>
   </tr>
   <tr>
