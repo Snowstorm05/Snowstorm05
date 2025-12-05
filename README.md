@@ -39,7 +39,7 @@
       <br>Nuxt.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Vue.js" />
+      <img src="https://skillicons.dev/icons?i=vuejs" width="45" height="45" alt="Vue.js" />
       <br>Vue.js
     </td>
     <td align="center" width="90">
