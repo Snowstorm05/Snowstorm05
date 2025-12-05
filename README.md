@@ -52,7 +52,7 @@
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/nestjs.svg" width="55" height="55" alt="NestJS" />
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Express" />
       <br>Nest.js
     </td>
     <td align="center" width="90">
@@ -70,26 +70,27 @@
   </tr>
 
   <tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" />
+  <br>C++
+</td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp.svg" width="55" height="55" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
       <br>C#
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mongodb.svg" width="55" height="55" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/postgresql.svg" width="55" height="55" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql.svg" width="55" height="55" alt="MySQL" />
-      <br>MySQL
-    </td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
+  <br>Supabase
+</td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br>Python
@@ -98,9 +99,9 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
       <br>Java
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="55" height="55" alt="Flutter" />
-      <br>Flutter
-    </td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
+  <br>Flutter
+</td>
   </tr>
 </table>
